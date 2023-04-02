@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "KJf11gDo7tVbws+pE+N/7PJHBta1BjYyFeIzc+c6hRI9spCqf5w9ELOuJbPu+noDlIq3YFGDCeaICUp+ibTKgw==",
+  "dgSpecHash": "i5uQ2hYlgwx6IclssPR+Ippki9myGGPR5UHL7FgGaGg5zooZJtaiYbx2HktkV7KWlJnR2lDcjRmH+vLZEBgPMw==",
   "success": true,
   "projectFilePath": "D:\\workspacesc#\\promptNess\\promptNess.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wma44\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wma44\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
