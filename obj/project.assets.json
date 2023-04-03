@@ -3378,23 +3378,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wma44\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Mike Apken\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspacesc#\\promptNess\\promptNess.csproj",
+      "projectUniqueName": "D:\\workspacesC#\\promptNess\\promptNess.csproj",
       "projectName": "promptNess",
-      "projectPath": "D:\\workspacesc#\\promptNess\\promptNess.csproj",
-      "packagesPath": "C:\\Users\\wma44\\.nuget\\packages\\",
-      "outputPath": "D:\\workspacesc#\\promptNess\\obj\\",
+      "projectPath": "D:\\workspacesC#\\promptNess\\promptNess.csproj",
+      "packagesPath": "C:\\Users\\Mike Apken\\.nuget\\packages\\",
+      "outputPath": "D:\\workspacesC#\\promptNess\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\wma44\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mike Apken\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
